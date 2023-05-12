@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2021-08-01</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Converted from a Word document</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData><encodingDesc>
+      <appInfo>
+        <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+          <label>DOCX to TEI</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date>2021-08-01T15:15:55Z</date>
+          <name/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bookmark2">
+        <head>EDUCATIONAL.</head>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: center;">THE CURRICULUM OF THE GOVERNMENT</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: center;">SCHOOLS AND OUR RELATION TO IT.*</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">May I preface the consideration of the subject by a few remarks on the purpose of mission schools. I think that we are all agreed that we are in this country simply to aid in the establishment of the Kingdom of God in China. We believe, however, that the regeneration of the individual which is necessary to entrance into the Kingdom is one that affects body and mind as well as soul, hence we have a duty to men’s bodies and minds. We believe that through Christian schools, boys and girls can be reached for Christ at the age when most vital and permanent impressions are made. And we also believe that the Kingdom will not take firm root in China until thoroughly educated Chinese men and women, with true Christian power and culture, arise to lead the fortunes of the Church. Hence our</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">* Paper read at the Annual Meeting of the West China Educational Union.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">work is not, on the one hand, to found and operate educational institutions for the teaching of Western learning merely, nor, on the other, to use our schools as mere nets to catch men, their value being estimated by the numbers that they land. It is rather to lay the foundations of a Christian Chinese education, and to prepare as thoroughly as possible the brightest minds of the coming generation to take their place as Christian leaders in the national life of China.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">This being so, is it not self-evident that the system of education that we introduce must parallel as far as possible that in the purely Government schools? How can our graduates take the place properly due them among the graduates of Government schools if their studies have led them in different directions, and their degrees represent subjects and methods of study with which the others are familiar? It is cause for congratulation that the men who first prepared the courses of study for our Educational Union recognized that fact, and did base them on the Government courses as then authorized. There are at present, however, some points of dissimilarity, due in large part to recent changes in the curricula of both the Government schools and those in the Educational Union. Hence the place for the discussion of the present subject, “The Curriculum of the Government Schools and our Relation to It.'' This curriculum is found in a bulky publication of eight volumes, called in Chinese [Chinese characters not transferable] or “New </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">Educational Regulations for China.” It includes minute regulations for the organization, control, and operation of many kinds of schools - university, middle, primary, normal, agricultural, medical, etc. Aside from the volume on university work, in regard to which the writer is not competent to speak, the one volume that interests us is the third. It contains the regulations concerning middle and primary schools.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">In each grade there is given first the aim of that grade, and the writer feels that it would not be amiss in the future, in preparing our printed Chinese chang ch'en, if it was prefaced by some brief extracts from the Educational Regulations. For example, in the Senior Primary regulations it is said: “The purpose of this grade is to develop the people's morals, extend to the full their knowledge, and strengthen their bodies.’ Of course, we take all this for granted, and so omit it from our chang ch’en, whereas the Chinese also takes it for granted and therefore inserts it. Are we not often, in our Western fear of the “elaboration of the obvious,” in danger of omitting it altogether, to the annoyance or bewilderment of our Chinese fellow-workers, who have an Easterner’s delight in completeness of expression and amplification of detail?</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">The regulations for raising funds for schools, securing premises, and control of schools need not concern us, because of the dissimilarity of conditions. Yet the writer has sometimes wondered </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">whether the time might not soon come when our local churches could be given a measure of control in regard to the primary schools in their locality, by the appointment, from among the members, of a school board, with advisory powers. It would certainly increase the interest in the success of the school, and would be in line with the Government system, where there are local boards acting under the county school board and inspector. </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">We may now briefly consider the courses of study for Junior Primary, Senior Primary, Middle Schools, and note any great differences from our own courses. </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">The Junior Primary course is divided into five years. The subjects, with the number of hours each per week, are as follows: Ethics (2), Gway Wen (18 hours in the 1st year, 24 in the 2nd, and 12 in each of the following years), Classics (beginning with the 3rd year, 12 hours), Arithmetic (6), Drill (4). </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">It will be noted that the study of the classics does not commence until the third year. The student is supposed to learn his characters, not from the philosophical treatises of the sages, but from the Gway Wen text-books. These do not plunge the small student at once into the study of difficult characters of which he has never heard, but begin with those constantly heard and easily recognized and written.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">The classics that are prescribed in the Filial Piety, the Analects, and the Li Dji (abbreviated edition). Mencius, the Great Learning, and the Doctrine of the Mean are left for the Senior Primary. The reason given for thus simplifying the course originally prescribed, which is still followed in the main by our course, is that it is better to do a little thoroughly than to cover much ground superficially.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">It will be noticed that geography, history, and science do not appear in the curriculum. They are supposed to be found in the Gway Wen text-books. In this case our plan of providing simple text-books in these subjects is, I think, a better one. Music is optional in all three grades. Drawing does not commence until the Senior Primary grade. </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">For the Senior Primary, unfortunately, the revised course of study has not, as far as the writer can learn, been published. But the reference, in the Junior Primary curriculum, of Mencius, etc., to the Senior Primary, where at present they do not occur, indicates an intention of making changes in the higher grade also.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">For each of the four years of this grade there are nine subjects. These, with the hours per week for each, are as follows: Ethics (2), Classics (12), Gway Wen (8), Arithmetic (3), History<anchor xml:id="bookmark5"/> (2), Geography (2), Science (2), Drawing (2), Drill (3), making a total of 36 hours a week. There is no English prescribed M this grade.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">The books studied in the classics are: 1st year, Book of [line missing in image]</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">year; Book of History, and I Djin; 4 th year, I Djin and Nyi Rites (abbreviated edition). But, as has already been said, is is probable that these texts will soon be changed.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">In no other subject are definite text-books mentioned, but here again it would seem likely that a new course would, as is the case in the new Junior Primary course, prescribe text-books. In one case one would hope that the change be not made, that is, in gway wen. There is a simple, syllabus outlined now that includes the study of models of composition, the writing of compositions, the translation of colloquial into classical language, the writing of the different styles of characters, and practice in Mandarin, in which latter department the text-book recommended is the Sacred Edict. Surely this is better than our present course in gway wen, to which too often the study of the subject-matter of the text-books leaves little time for original composition.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">One questions whether it would be wise to follow the Government curriculum in the elimination of English from the Senior Primary grade. The other Western subjects cover practically the same ground as in our schools. </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">The new course for Middle schools makes provision for two kinds of schools. One lays chief stress on Chinese subjects, and might be called Arts Schools; the other lays stress on science and foreign languages, and might be called Science Schools. In the Arts School the following subjects are classed as of prime importance: Classics (10 hours), Gway Wen (6), English or German (6), History (3), Geography (2). The remaining subjects are: Ethics (1); Mathematics (3), Sciences (1 or 2), Drill (2), Economics and the Science of Government (2). In the Science School the subjects of prime importance are: English or German (8 to 10 hours), Mathematics (6), Science (6 to 1), and the other subjects are: Ethics (1), Classics (3), Gway Wen (3), History (1), Geography (1), Drawing (2), Technical Course, and Economics (1), Drill (2).</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">The text-books prescribed in classics are the Chwen Chiu (1st to 3rd years), Djou Rites (4th year), and the mathematics include arithmetic, algebra, geometry and trigonometry. The history and geography are the same as in our course. </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">In science the Arts School provides one year’s courses in botany and zoology, and two year’s courses in physics and chemistry. Only two hours a week are given for science. But in the Science School there are short courses in botany, zoology, mineralogy, physiology, and hygiene; one full year in physics, and two in chemistry.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">Comparing our course with these two Middle School courses, our schools seem to strike a mean between the two. We cover nearly as much ground in Chinese subjects, though the time devoted to them is somewhat less than in the Arts School. </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">In Western subjects I think perhaps we cover the ground more thoroughly.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">Summing up, we find in all grades (except the so-called Science Middle Schools) that the greater portion of the time is given to Chinese subjects, classics, Gway wen, and Chinese history. The number of hours per week for each class of subjects is given below. For purposes of comparison the writer has indicated the number of hours that he thinks are necessary to cover the course provided by the Educational Union.</p>
+        <table rendition="simple:rules">
+          <row>
+            <cell style="text-align: left;" rendition="simple:Other|1">Jr. Primary—Gov’t School</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">24</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">6</cell>
+          </row>
+          <row>
+            <cell style="text-align: left;" rendition="simple:Other|1">., ., Ed’l Union</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">2 I</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">12</cell>
+          </row>
+          <row>
+            <cell style="text-align: left;" rendition="simple:Other|1">Sr. Primary Gov’t School</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">22</cell>
+            <cell style="text-align: left;">11</cell>
+          </row>
+          <row>
+            <cell style="text-align: left;" rendition="simple:Other|1">„ Ed’l Union</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">17</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">16</cell>
+          </row>
+          <row>
+            <cell style="text-align: left;" rendition="simple:Other|1">Middle School (Arts)</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">19</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">16</cell>
+          </row>
+          <row>
+            <cell style="text-align: left;" rendition="simple:Other|1">„ (Science)</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">7</cell>
+            <cell style="text-align: left;" rendition="simple:Other|1">27</cell>
+          </row>
+        </table>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: right;">Chinese Subjects. Western Subjects (not including drill).</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">(The writer cannot give figures for middle school work in the Educational Union, in which he has had no experience.)</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">These figures show that while the proportion of hours that we give to each class of subjects is slightly different, the actual number of hours given to Chinese subject, is very little less than it is in the Government schools. The greatest difference of course lies in our substitution of Scripture for Ethics, which in the Government course is taken to include the lives of illustrious patriots. But the fact that last year the Bible was introduced into some of the Government schools in two of the provinces of China indicates that the purpose and value of “The Book” are becoming known.</p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">In conclusion may the writer make a few suggestions that have come from his reading of the Educational Regulations.</p>
+        <list type="ordered">
+          <item><anchor xml:id="bookmark6"/>Might we not wisely copy the Chinese in their slowness to change the course of study? The first course was issued in 1904 and the changes not until 1909. We should certainly be “going on to perfection”, but it is a questionable proceeding to be constantly pulling a thing up to make it grow faster.</item>
+          <item><anchor xml:id="bookmark7"/>When the belated new regulations for the Senior Primary appear it might be well to bring our course into line by rearranging the order of studying the classics in the various grades.</item>
+          <item><anchor xml:id="bookmark8"/>Might we not profitably incorporate in our chang ch’einn a statement of the fact that our course follows in the main that laid down by the Board of Education, and also quote some of the general regulations regarding the aim and general conduct of schools, and the methods of teaching the various-subjects.</item>
+          <item><anchor xml:id="bookmark9"/>Could we not give our Chinese fellow teachers some share of the work of the Union? If we cannot have them as delegates at our annual meeting (though, why not?), we can at [line missing in image]<pb/></item>
+        </list>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">every way to arouse on their part as great an interest in the schools of the Educational Union as is aroused in Government school circles by Teachers’ Associations, athletic meets, and visits of inspectors? It might be possible to arrange for prefectural teachers' conventions, where live school questions could be discussed and recommendations be sent to this Annual Meeting. In this way the teachers would feel something of the bigness of the system with which they are concerned. It is undoubtedly a factor in the continued, success of the modern Chinese school system that it is common to the Empire, and is one national movement in which all teachers may have a part. </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: justify;">(5) It is to be hoped that in the future we may have increasing intercourse with teachers in Government schools, and let them understand that our aims, course of study, and methods are similar to theirs. Probably we can best break down the prejudice at present existing against our schools by such intercourse, showing that we are not trying to make our scholars disloyal to their country, but that we aim to make them good, moral, law-abiding citizens of the Empire. We may thus pave the way for the recognition by the Government school authorities of schools under mission control, and help to bring about complete religious toleration in China. </p>
+        <p rendition="simple:Bodysimple:text|1" style="text-align: right;">Edward Wilson Wallace.</p>
+        <p rendition="simple:Bodysimple:text|2">Chungking</p>
+      </div>
+    </body>
+  </text>
+</TEI>
